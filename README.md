@@ -21,3 +21,6 @@ To earn extra credit,
  * Make changes until you have a working three-level game
 
 As always, update the LICENSE, this file (README.md) and submit the URL to your repository on Canvas.
+
+
+This program explores the capabilites of the Tiled application. A 2D platformer level is created and tested with a movable sprite that can collect coins and jump between platforms. 
